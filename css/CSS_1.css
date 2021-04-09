@@ -1,0 +1,29 @@
+input[type=text], select{
+    width: 90%;
+    margin-left: 2px;
+}
+
+#cContainer {
+    width: 25%;
+    border-radius: 5px;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+label{
+    font-weight: bold;
+}
+
+input[type=submit] {
+    background-color: lightyellow;
+    padding: 5px;
+    width: 25%;
+}
+
+#submit {
+    font-weight: bold;
+}
+
+input[type=submit]:hover {
+    background-color: yellowgreen;
+}
